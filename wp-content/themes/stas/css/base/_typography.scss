@@ -1,0 +1,18 @@
+$font-family: "Poppins", sans-serif;
+
+body {
+	font-family: $font-family;
+	line-height: 1;
+	font-weight: 400;
+	color: $gray-color;
+	background-color: $main-shade;
+}
+
+ion-icon {
+	font-size: 64px;
+}
+// WORDPRESS RESET ROBO GALLERY PLUGIN
+.rbs-img-content {
+	background: $main-color !important;
+	padding: 10px !important;
+}
